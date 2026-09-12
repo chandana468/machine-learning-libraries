@@ -97,7 +97,7 @@ Topics covered:
 8. Jupyter Notebook
 
 
-🎯 Purpose
+🎯Purpose
 
 The purpose of this repository is to document my practical learning journey in Python, Data Analysis, Data Visualization, and Machine Learning through hands-on examples and experiments.
 
